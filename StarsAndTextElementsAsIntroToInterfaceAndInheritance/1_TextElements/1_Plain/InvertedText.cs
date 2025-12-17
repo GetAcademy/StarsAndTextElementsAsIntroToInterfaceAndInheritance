@@ -1,6 +1,6 @@
 ﻿namespace StarsAndTextElementsAsIntroToInterfaceAndInheritance._1_TextElements._1_Plain
 {
-    internal class InvertedText : ITextElement
+    internal class InvertedText 
     {
         private string _text;
 

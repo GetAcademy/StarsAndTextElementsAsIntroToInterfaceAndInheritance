@@ -1,6 +1,6 @@
 ﻿namespace StarsAndTextElementsAsIntroToInterfaceAndInheritance._2_Stars._1_Plain
 {
-    internal class MovingStar : IStar
+    internal class MovingStar
     {
         private int _col;
         private int _row;
