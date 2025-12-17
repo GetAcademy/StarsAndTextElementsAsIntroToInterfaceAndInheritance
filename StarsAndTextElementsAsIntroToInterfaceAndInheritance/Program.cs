@@ -1,3 +1,3 @@
-﻿using StarsAndTextElementsAsIntroToInterfaceAndInheritance._1_TextElements;
+﻿using StarsAndTextElementsAsIntroToInterfaceAndInheritance._2_Stars;
 
 Demo1Plain.Run();
