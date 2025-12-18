@@ -1,6 +1,6 @@
-﻿namespace StarsAndTextElementsAsIntroToInterfaceAndInheritance._1_TextElements._1_Plain
+﻿namespace StarsAndTextElementsAsIntroToInterfaceAndInheritance._1_TextElements._2_WithInterface
 {
-    internal class CenteredHeader 
+    internal class CenteredHeader : ITextElement
     {
         private readonly string _text;
         private readonly char _paddingChar;
