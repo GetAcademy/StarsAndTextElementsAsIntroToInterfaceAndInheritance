@@ -1,6 +1,6 @@
-﻿namespace StarsAndTextElementsAsIntroToInterfaceAndInheritance._2_Stars._1_Plain
+﻿namespace StarsAndTextElementsAsIntroToInterfaceAndInheritance._2_Stars._2_WithInterface
 {
-    internal class BlinkingStar 
+    internal class BlinkingStar :IStar
     {
         private int _col;
         private int _row;

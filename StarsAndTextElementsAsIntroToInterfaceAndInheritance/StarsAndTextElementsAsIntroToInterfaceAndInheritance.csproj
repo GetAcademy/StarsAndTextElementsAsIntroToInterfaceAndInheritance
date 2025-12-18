@@ -8,8 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="2_Stars\3_WithInheritance\" />
-    <Folder Include="2_Stars\2_WithInterface\" />
     <Folder Include="1_TextElements\3_WithInheritance\" />
   </ItemGroup>
 
